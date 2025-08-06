@@ -35,10 +35,11 @@ Visit: http://localhost:5000
 
 📂 Folder Structure
 
-├── app.py
+├── app/main.py
 ├── Dockerfile
 ├── docker-compose.yml
 ├── README.md
+├── Screenshot.png
 └── .gitignore
 
 👤 Author : Akshay Sirsat — Cloud | DevOps | SRE

@@ -36,8 +36,7 @@ Visit: http://localhost:5000
 ├── README.md
 └── .gitignore
 
-👤 Author
-Akshay Sirsat — Cloud | DevOps | SRE
+👤 Author : Akshay Sirsat — Cloud | DevOps | SRE
 🔗 LinkedIn
 🌐 akshaysirsat.dev
 

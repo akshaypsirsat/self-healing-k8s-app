@@ -46,6 +46,6 @@ Visit: http://localhost:5000
 🔗 LinkedIn
 🌐 akshaysirsat.dev
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/e67d39c9-19a8-4126-a94d-d5a232f73e29" />
+
 
 

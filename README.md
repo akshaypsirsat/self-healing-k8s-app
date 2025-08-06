@@ -1,16 +1,45 @@
-# Self-Healing Kubernetes App 🚑⚙️
+# 🔧 Flask Docker CI/CD Demo
 
-A self-healing Kubernetes application setup using GitLab CI/CD, Terraform, and Python Flask. Demonstrates key DevOps and SRE skills like Infrastructure as Code, Monitoring, and Auto Recovery.
+This project is a beginner-friendly DevOps mini-project that demonstrates:
 
-## Features
-- GitLab CI/CD for automated deployment
-- Kubernetes health checks with auto-restart
-- Terraform for infra provisioning
-- Dockerized Python Flask App
+- Containerizing a Python Flask app using **Docker**
+- Running it locally with **docker-compose**
+- Prepares for further CI/CD pipeline and IaC integrations
 
-## Skills Showcased
-✅ CI/CD  
-✅ Containers  
-✅ Kubernetes  
-✅ Infrastructure as Code (IaC)  
-✅ Monitoring & Self-Healing Systems
+## 🚀 Tech Stack
+
+- Python 3
+- Flask
+- Docker
+- Docker Compose
+
+## 🧪 Run Locally
+
+```bash
+# Build & run the container
+docker-compose up --build
+
+Visit: http://localhost:5000
+🛠 Next Steps
+
+    Add CI/CD (GitHub Actions or GitLab)
+
+    Push to container registry
+
+    Deploy to K8s cluster or cloud provider
+
+📂 Folder Structure
+
+├── app.py
+├── Dockerfile
+├── docker-compose.yml
+├── README.md
+└── .gitignore
+
+👤 Author
+
+Akshay Sirsat — Cloud | DevOps | SRE
+
+🔗 LinkedIn
+🌐 akshaysirsat.dev
+

@@ -37,9 +37,7 @@ Visit: http://localhost:5000
 └── .gitignore
 
 👤 Author
-
 Akshay Sirsat — Cloud | DevOps | SRE
-
 🔗 LinkedIn
 🌐 akshaysirsat.dev
 

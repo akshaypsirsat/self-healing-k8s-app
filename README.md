@@ -6,6 +6,11 @@ This project is a beginner-friendly DevOps mini-project that demonstrates:
 - Running it locally with **docker-compose**
 - Prepares for further CI/CD pipeline and IaC integrations
 
+## 🖼 Output Screenshot
+
+![Flask App Output](./Screenshot.png)
+
+
 ## 🚀 Tech Stack
 
 - Python 3
